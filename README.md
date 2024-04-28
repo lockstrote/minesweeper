@@ -1,2 +1,2 @@
 # minesweeper
-# This is a Minesweeper version for desktop developed in Java.
+This is a Minesweeper version for desktop developed in Java.
